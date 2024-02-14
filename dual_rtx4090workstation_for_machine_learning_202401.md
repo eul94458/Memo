@@ -184,7 +184,7 @@ Heard that RAID may harm SSD durability but I don't know. Research yourself.
 
 ### Out of memory. Error message shown that it is related to graphics.
 
-If the CPU has iGPU in it, it can be fixed. Reboot and enter BIOS menu. Enable CSM mode to disable iGPU. But make sure you have a discrete GPU so that you can see stuff. After disabling iGPU, re-enter Linux install media, you should be fine.
+If the CPU has iGPU in it, it can be fixed. Reboot and enter BIOS menu. Enable CSM mode to disable iGPU, save settings and reboot. But make sure you have a discrete GPU so that you can see stuff. After disabling iGPU, re-enter Linux install media, you should be fine.
 
 ### No Wifi
 
