@@ -89,7 +89,7 @@ Those motherboard listed above are all highend stuff otherwise lack connectivity
 
 ### RAM
 
-For the sake of stability, I would recommend you to buy those RAM that has enough high transfer rate natively. For DDR4, you should find one that is rated at 1.2V. For DDR5, find 1.1V. However, running at high transfer rate natively doesn't mean that you can escape from the 4 stick DDR5 curse. Still they are running at a high transfer rate and the memory control cannot handle 4 of them, the BIOS will make them all run slower together, like 4800MHz.
+For the sake of stability, I would recommend you to buy those RAM that has enough high transfer rate natively. For DDR4, you should find one that is rated at 1.2V. For DDR5, find 1.1V. However, running at high transfer rate natively doesn't mean that you can escape from the 4 stick DDR5 curse. Still they are running at a high transfer rate and the memory controler cannot handle 4 of them, the BIOS will make them all run slower together, like 4800MHz.
 
 ### CPU
 
