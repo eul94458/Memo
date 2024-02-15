@@ -167,6 +167,14 @@ You must set x8/x8 bifurcation since you are using two GPU. Some motherboard got
 
 CPU manufacturers push their CPU to the limit out of box and it is hot as shit. By undervolting it, which means set the CPU to run in 0.1 less volt, it can keep the same performance while running 10 degree Celcius cooler than before. However, depends on the power module of your motherboard, it might not be stable at -0.1Volt, if so, try -0.05Volt.
 
+### System Stability
+
+How do I know if my system is stable? Boot into Windows, launch Cinebench and run benchmark for 10mins. If Cinebench or the OS do not crash, I think you can consider your system as stable. Otherwise, like setting -0.1 volt for CPU in ASUS motherboard, Cinebench cannot run second iteration on CPU benchmarking, it will stop and unresponsive for no reason.
+
+### GPU ECC
+
+RTX4090 has ECC on it. If you are academia, you should enable it.  
+
 ### PCIe lane sharing
 
 As mentioned before, some motherboard split the fastest PCIe lanes to PCIex16 slot and M.2 slot. So you can use either 2GPU+0SSD, or 1GPU+1SSD. Make sure you are not putting the SSD into that shared M.2 slot. Consult the user manuel for details.
