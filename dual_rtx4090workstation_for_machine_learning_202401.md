@@ -161,7 +161,7 @@ You must enable this feature for better GPU performance.
 
 ### Bifurcation
 
-You must set x8/x8 bifurcation since you are using two GPU. Some motherboard got their PCIe lane share the same bandwidth with the fastest M.2 slot, you can have either 1GPU+1M.2 or 2GPU configuration. Abandon the fastest M.2 slot for the sake of out GPU.
+You must set x8/x8 bifurcation since you are using two GPU. Some motherboard got their PCIe lane share the same bandwidth with the fastest M.2 slot, you can have either 1GPU+1M.2 or 2GPU configuration. Abandon the fastest M.2 slot for the sake of our GPU.
 
 ### CPU Undervolt
 
